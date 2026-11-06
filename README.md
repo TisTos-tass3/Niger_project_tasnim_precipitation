@@ -34,7 +34,9 @@ Start JupyterLab:
 
 > jupyter lab
 
-Open the Python script in a notebook or copy its contents into a notebook cell, then execute it. Alternatively, run it directly with > python plot_graphs.py from an environment where the required packages are installed.
+Open the Python script in a notebook or copy its contents into a notebook cell, then execute it. Alternatively, run it directly with 
+> python plot_graphs.py
+from an environment where the required packages are installed.
 
 It reads annual_indices.csv and saves the 12 PNG figures in the graphs subfolder of the results directory.
 Expected output
